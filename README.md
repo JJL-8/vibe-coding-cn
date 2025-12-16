@@ -218,9 +218,9 @@
 ├── CLAUDE.md                    # AI 助手的核心行为准则或配置。
 │
 ├── documents/                   # 存放各类说明文档、经验总结和配置详细说明。
-│   ├── auggie-mcp配置文档.md      # Augment 上下文引擎配置文档。
-│   ├── 代码组织.md                # 代码组织与结构相关文档。
-│   ├── ... (其他文档)
+│   ├── Methodology and Principles/ # 方法论与原则
+│   ├── Templates and Resources/    # 模板与资源
+│   └── Tutorials and Guides/       # 教程与指南
 │
 ├── libs/                        # 通用库代码，用于项目内部模块化。
 │   ├── common/                  # 通用功能模块。
